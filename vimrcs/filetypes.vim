@@ -29,7 +29,13 @@ au FileType python set expandtab
 au FileType python set autoindent
 au FileType python set fileformat=unix
 
-
+"""""""""""""""""""""""""""""""
+au FileType html set tabstop=2
+au FileType html set softtabstop=2
+au FileType html set shiftwidth=2
+au FileType html set textwidth=79
+au FileType html set expandtab
+"au FileType html set autoindent
 
 """"""""""""""""""""""""""""""
 " => JavaScript section
