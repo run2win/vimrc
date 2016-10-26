@@ -24,7 +24,7 @@ au FileType python set indentkeys-=0#
 au FileType python set tabstop=4
 au FileType python set softtabstop=4
 au FileType python set shiftwidth=4
-au FileType python set textwidth=79
+"au FileType python set textwidth=79
 au FileType python set expandtab
 au FileType python set autoindent
 au FileType python set fileformat=unix
