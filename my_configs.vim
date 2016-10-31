@@ -30,3 +30,5 @@ function! SetColorColumn()
 endfunction
 
 set colorcolumn=80
+
+let g:pydiction_location = '/Users/run2win/.vim_runtime/complete-dict'
